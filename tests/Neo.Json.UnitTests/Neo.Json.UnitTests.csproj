@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Neo.Json\Neo.Json.csproj" />
+  </ItemGroup>
+
+</Project>
